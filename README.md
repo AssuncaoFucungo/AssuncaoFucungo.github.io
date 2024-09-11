@@ -3,7 +3,7 @@
 **Marketing Manager**  
 Contact: +27 (72) 287 1987  
 Email: [assuncaofucungo@gmail.com](mailto:assuncaofucungo@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/assuncao-fucungo-504622279/) | [GitHub](https://github.com/AssuncaoFucungo)
+[LinkedIn](https://www.linkedin.com/in/assuncao-fucungo-504622279/) | [GitHub](https://assuncaofucungo.github.io/)
 
 ## Profile
 Dynamic and results-oriented marketing professional with a solid foundation in both traditional and digital marketing strategies. Possessing an advanced diploma in Marketing alongside specialized certifications in front-end development, including CSS, HTML, JavaScript, and React. Currently pursuing a Full Stack National Senior Certificate to augment existing skills. Proven ability to conceptualize and execute comprehensive marketing campaigns while leveraging technical expertise to create impactful web solutions. Adept at market analysis, strategic planning, and project management, with a keen eye for detail and a passion for driving business growth through innovative marketing initiatives.
